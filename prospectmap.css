@@ -1,8 +1,8 @@
-.marker-cluster {
+.marker-cluster-prospect {
     background-clip: padding-box;
     border-radius: 200px;
 }
 
-.marker-cluster-large {
+.marker-cluster-smood {
     background-color: rgba(226, 10, 255, 0.6);
 }
