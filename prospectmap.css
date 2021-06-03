@@ -1,0 +1,8 @@
+.marker-cluster {
+    background-clip: padding-box;
+    border-radius: 200px;
+}
+
+.marker-cluster-large {
+    background-color: rgba(226, 10, 255, 0.6);
+}
